@@ -7,6 +7,12 @@
 #### In this project I worked with: 
 
 - Project Planning & Architecture
+- Object-Oriented programming
+- Aync/Await
+- Data Structures
+- Modules
+- Tooling
+- Functional
 - Asynchronous JS
 - Loading Data from API
 - Load and Hashchange Events
